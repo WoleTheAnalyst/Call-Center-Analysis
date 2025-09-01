@@ -79,7 +79,9 @@ call-center-analysis/
 ---
 
 ## 📊 Dashboard Preview
-(Screenshot placeholder – add images of your Power BI dashboard here)
+<img width="472" height="269" alt="Page 1" src="https://github.com/user-attachments/assets/f37251d9-cbe4-4bb0-8933-26e47165e386" />
+<img width="470" height="268" alt="Page 2" src="https://github.com/user-attachments/assets/a802b1f8-2a20-4e34-b6c9-afade0efca0e" />
+<img width="473" height="262" alt="Page 3" src="https://github.com/user-attachments/assets/9c671bd3-5ed7-4255-85bb-ee5e0e66ab6e" />
 
 ---
 
